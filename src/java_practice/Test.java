@@ -11,10 +11,6 @@ public class Test
 	public static void main(String[] args) 
 	{
 
-		
-		
-		
-
 		@SuppressWarnings("resource")
 		Scanner myObj = new Scanner(System.in);  
 	    System.out.println("Enter Number: ");
