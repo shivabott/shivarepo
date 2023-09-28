@@ -12,6 +12,8 @@ public class Test
 	{
 
 		
+		
+		
 
 		@SuppressWarnings("resource")
 		Scanner myObj = new Scanner(System.in);  
